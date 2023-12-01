@@ -45,12 +45,12 @@ a {
   }
 
 p {
-  color: white;
+  color: #d2b036; 
 
 }
 
 a {
-  color: white;
+  color: #d2b036; 
 }
 
 
@@ -60,7 +60,7 @@ footer {
     padding: 5px;
     margin-top:2em;
     border-bottom:10px;
-    color:white;
+    color:#d2b036; 
     text-align:center;
    
 }
