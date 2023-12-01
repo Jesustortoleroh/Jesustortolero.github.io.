@@ -1,0 +1,66 @@
+body {
+    
+  background-color: rgb(144, 15, 15);
+ 
+    
+}
+
+
+img {
+  display: flex;
+  margin: auto;
+}
+
+
+
+.my-button {
+  background:    transparent;
+  border:        3px solid #d2b036;
+  border-radius: 11px;
+  padding:       20px 45px;
+  color:         #d2b036;      
+  font:          normal bold 26px/1 "Open Sans", sans-serif;
+  text-align:    center;
+  display: flex;
+  margin: 10px auto;
+  cursor: pointer;
+  min-width: 300px;
+  
+  }
+
+
+
+
+a {
+  text-decoration: none;
+}
+
+.my-button:hover {
+    background-color: #d2b036;
+    color: rgb(144, 15, 15);
+  }
+
+  .my-button:active {
+    background-color: #d2b036;
+  }
+
+p {
+  color: white;
+
+}
+
+a {
+  color: white;
+}
+
+
+footer {
+  
+   
+    padding: 5px;
+    margin-top:2em;
+    border-bottom:10px;
+    color:white;
+    text-align:center;
+   
+}
