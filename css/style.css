@@ -22,7 +22,7 @@ img {
   font:          normal bold 26px/1 "Open Sans", sans-serif;
   text-align:    center;
   display: flex;
-  margin: 10px auto;
+  margin: auto;
   cursor: pointer;
   min-width: 300px;
   
